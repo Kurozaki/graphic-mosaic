@@ -1,9 +1,9 @@
 ﻿效果如下
 ___
-![image][http://www.wongyotwei.cn/resources_warehouse/imgs/gm_out_1522119577213.jpg]
+<img src="http://www.wongyotwei.cn/resources_warehouse/imgs/gm_out_1522119577213.jpg"/>
 ___
 
-![image][http://www.wongyotwei.cn/resources_warehouse/imgs/gm_out_1522122031843.jpg]
+<img src="http://www.wongyotwei.cn/resources_warehouse/imgs/gm_out_1522122031843.jpg"/>
 
 ___
 我从微信拿下来的200多个头像，素材数量还不够多。
